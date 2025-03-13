@@ -11,3 +11,7 @@ Currently, diagnosing self-neglect requires in-home assessments, which are impra
 # Project goal
 
 Our goal was to develop a **simple point-based predictive index** to estimate risk prognostication of self-neglect onset. 
+
+# Methods
+
+The study analyzed longitudinal data from 2,713 participants in the Population Study of Chinese Elderly (PINE), collected in Chicago (2011–2015) with ~2-year follow-up intervals. The primary outcome was incident self-neglect. Fourteen potential predictive domains were examined, including sociodemographics, neighborhood/community, immigration, adverse life events, culture, general wellbeing, lifestyle, medical health, health care utilization, physical function, cognitive function, social wellbeing, violence, and psychological wellbeing. Stepwise selection in multivariable logistical regression models and bootstrapping were used to develop and validate the predictive index.
