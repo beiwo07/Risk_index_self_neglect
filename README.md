@@ -18,9 +18,24 @@ The study analyzed longitudinal data from 2,713 participants in the Population S
 
 # Results 
 
-We developed a 19-item risk index (c-statistic: 0.74) and validated it with 100 bootstrapped samples, yielding a corrected accuracy of 0.68. The point-based index ranges from 0 to 37, corresponding to a future self-neglect probability of <10% to >90%.
+We developed a 19-item risk index with a c-statistic of 0.74 and validated it using 100 bootstrapped samples, yielding a corrected accuracy of 0.68. The point-based index ranges from 0 to 37 and estimates the probability of self-neglect onset within two years as follows:
 
-<img src="risk_index.png" width="800">
+<img src="graph.png" width="800">
+
+### Risk Score Interpretation
+
+| Score Range | Probability of Self-Neglect Onset (%) |
+|------------|--------------------------------------|
+| 0 - 9      | <10%                                |
+| 10 - 13    | 10% - 30%                           |
+| 14 - 17    | 31% - 60%                           |
+| 18 - 22    | 61% - 90%                           |
+| 23 - 37    | >90%                                |
+
+This risk index serves as a predictive tool for assessing self-neglect risk in two years, aiding early intervention and support strategies.
+
+Risk 
+
 
 
 
