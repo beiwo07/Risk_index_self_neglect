@@ -36,18 +36,12 @@ We developed a 19-item risk index with a c-statistic of 0.74 and validated it us
 
 The tool provides a structured approach for field assessments, helping professionals make informed decisions regarding early interventions and support strategies. 
 
-**BibTeX Format:**  
-```bibtex
-@article{wang2021selfneglect,
-  author = {Wang, B. and Hua, Y. and Dong, X.},
-  title = {Development and validation of a predictive index of elder self-neglect risk among a Chinese population},
-  journal = {Aging & Mental Health},
-  year = {2021},
-  volume = {25},
-  number = {8},
-  pages = {1572-1579},
-  doi = {10.1080/13607863.2020.1714011}
-}
+## **Citation**  
+
+If you use this risk index in your research or practice, please cite:  
+
+> Wang, B., Hua, Y., & Dong, X. (2021). Development and validation of a predictive index of elder self-neglect risk among a Chinese population. *Aging & Mental Health, 25*(8), 1572-1579. https://doi.org/10.1080/13607863.2020.1714011  
+
 
 
 
