@@ -34,7 +34,7 @@ We developed a 19-item risk index with a c-statistic of 0.74 and validated it us
 
 # Takeaway
 
-The tool provides a structured approach for field assessments, helping professionals make informed decisions regarding early interventions and support strategies. 
+The tool provides a structured approach for field assessments for self-neglect risk without an in-home assessment, helping professionals make informed decisions regarding early interventions and support strategies. 
 
 ## **Citation**  
 
