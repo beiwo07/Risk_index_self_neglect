@@ -20,7 +20,7 @@ The study analyzed longitudinal data from 2,713 participants in the Population S
 
 We developed a 19-item risk index (c-statistic: 0.74) and validated it with 100 bootstrapped samples, yielding a corrected accuracy of 0.68. The point-based index ranges from 0 to 37, corresponding to a future self-neglect probability of <10% to >90%.
 
-<img src="risk_index.png" style="width:800px;">
+![Graph](images/risk_index.png)
 
 
 
