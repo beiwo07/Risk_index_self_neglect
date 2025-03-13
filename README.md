@@ -1,6 +1,6 @@
 # Development and validation of a predictive index of elder self-neglect risk among a Chinese population
 
-# Background 
+# Importance 
 
 Elder self-neglect occurs when an older adult’s inability to perform essential self-care tasks—such as maintaining food, shelter, medical care, or financial affairs—threatens their health and safety. It leads to mental disorders, increased premature mortality, and higher healthcare utilization.
 
