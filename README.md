@@ -2,7 +2,7 @@
 
 # Background 
 
-Elder self-neglect occurs when an older adult’s inability to perform essential self-care tasks—such as maintaining food, shelter, medical care, or financial affairs—threatens their health and safety. It may lead to mental disorders, increased premature mortality, and higher healthcare utilization.
+Elder self-neglect occurs when an older adult’s inability to perform essential self-care tasks—such as maintaining food, shelter, medical care, or financial affairs—threatens their health and safety. It leads to mental disorders, increased premature mortality, and higher healthcare utilization.
 
 Currently, diagnosing self-neglect requires in-home assessments, which are impractical for clinicians who frequently interact with at-risk older adults. By the time self-neglect is identified, cases are often severe, costly, and resistant to treatment. Therefore, an early detection risk index is crucial for predicting and intervening self-neglect.
 
