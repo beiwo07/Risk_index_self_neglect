@@ -20,7 +20,7 @@ The study analyzed longitudinal data from 2,713 participants in the Population S
 
 We developed a 19-item risk index with a c-statistic of 0.74 and validated it using 100 bootstrapped samples, yielding a corrected accuracy of 0.68. The point-based index ranges from 0 to 37 and estimates the probability of self-neglect onset within two years as follows:
 
-<img src="graph.png" width="800">
+<img src="risk_index.png" width="800">
 
 ### Risk Score Interpretation
 
