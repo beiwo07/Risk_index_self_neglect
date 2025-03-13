@@ -18,9 +18,10 @@ The study analyzed longitudinal data from 2,713 participants in the Population S
 
 # Results 
 
-We developed a 19-item risk index with a c-statistic of 0.74. After correcting for overfitting by validating in 100 bootstrapping samples, the model demonstrated a moderate predictive accuracy of 0.68. We deployed this tool by creating a point-based predictive index of self-neglect. The index score ranges from 0 to 37 or, interpreted into probability of self-neglect in the future from <10% to >90%. 
+We developed a 19-item risk index (c-statistic: 0.74) and validated it with 100 bootstrapped samples, yielding a corrected accuracy of 0.68. The point-based index ranges from 0 to 37, corresponding to a future self-neglect probability of <10% to >90%.
 
-![Screenshot 2025-03-13 at 8 35 25 AM](https://github.com/user-attachments/assets/86f0e78d-665b-48b4-a4b4-1f7a9b516d32)
+<img src="risk_index.png" style="width:800px;">
+
 
 
 
