@@ -14,7 +14,7 @@ Our goal was to develop a **simple point-based predictive index** to estimate ri
 
 The study analyzed longitudinal data from 2,713 participants in the Population Study of Chinese Elderly (PINE), collected in Chicago (2011–2015) with ~2-year follow-up intervals. The primary outcome was incident self-neglect. Fourteen potential predictive domains were examined, including sociodemographics, neighborhood/community, immigration, adverse life events, culture, general wellbeing, lifestyle, medical health, health care utilization, physical function, cognitive function, social wellbeing, violence, and psychological wellbeing. Stepwise selection in multivariable logistical regression models and bootstrapping were used to develop and validate the predictive index. 
 
-# Results 
+# Results and takeaway
 
 We developed a 19-item risk index with a c-statistic of 0.74 and validated it using 100 bootstrapped samples, yielding a corrected accuracy of 0.68. The point-based index ranges from 0 to 37 and estimates the probability of self-neglect onset within two years.
 
@@ -32,7 +32,8 @@ We developed a 19-item risk index with a c-statistic of 0.74 and validated it us
 | 18 - 22    | 61% - 90%                           |
 | 23 - 37    | >90%                                |
 
- 
+The tool provides a structured approach for field assessments, helping professionals make informed decisions regarding early interventions and support strategies. 
+
 
 
 
