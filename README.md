@@ -1,4 +1,4 @@
-# Development and validation of a predictive index of elder self-neglect risk among a U.S. Chinese population
+# Development and validation of a predictive index of elder self-neglect risk 
 
 # Importance 
 
